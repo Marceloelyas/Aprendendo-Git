@@ -2,3 +2,5 @@
  Primeiro repositorio
 
  Aprendendo um pouco sobre o universo Git
+
+ Emergencia de escrita
